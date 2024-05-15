@@ -9,17 +9,22 @@ AGU requires that the underlying data and/or software or code needed to understa
 Therefore here I cite datasets, softwares and codes for analysis used in my study:
 
 Datasets (tables): 
-- Results obtained after applying Density-based clustering (3D):
-- Results of final seismic swarms:
+- Results obtained after applying Density-based clustering (3D): "v0_d03km_n50_every1.mat"
+- Results of final seismic swarms: "df_final_swarms_of_v0_d03_n50_every1.csv"
 
 Methods:
-- Density-based clustering (3D) with matlab (@David Marsan):
-- ETAS model (4D) including earthquake detection probability with C (@David Marsan):
-- Determination of candidate seismic swarms with jupyter notebook:
-- Statistical assessment of candidate seismic swarms with jupyter notebook:
+- Density-based clustering (3D) with matlab (@David Marsan): "cout_local.m"
+                                                             "compute_pi_M.m"
+- ETAS model (4D) including earthquake detection probability with C (@David Marsan): "etas-amatrice-v5.c"
+- Determination of candidate seismic swarms with jupyter notebook: "automatisation_looking_for_swarms.ipynb"
+- Statistical assessment of candidate seismic swarms with jupyter notebook: "take_a_look_at_swarms_of_v0_d03_n50_every1_review.ipynb"
 
-Analyses and interpretations:
-- Migration analysis of seismic swarms with jupyter notebook:
-- Global statistics of final seismic swarms with jupyter notebook:
-- Interpretation of our results (figures mainly) with jupyter notebook:
+Analyses:
+- Migration analysis of seismic swarms with jupyter notebook: "Migration_behaviours.ipynb"
+- Global statistics of final seismic swarms with jupyter notebook: "check_up_global_stats_of_v0_d03_n50_every1.ipynb"
+- Interpretation of our results (figures mainly) with jupyter notebook: "plots_for_paper_about_swarms_v0_d03_n50_every1.ipynb"
+                                                                        "map_results_for_v0_d03_n50_every1.ipynb"
+                                                                        "cross_sections_of_v0_d03_n50_every1.ipynb"
+                                                                        "Interpretation_swarms_N_S_parts_of_v0_d03_n50_every1.ipynb"
+                                                                        "compute_pressure_variation.ipynb"
 
