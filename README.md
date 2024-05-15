@@ -1,4 +1,4 @@
-# Characterizing seismic swarm activity in the aftershock zone at the 2016 Amatrice-Norcia seismic sequence
+# Open reasearch for "Characterizing seismic swarm activity in the aftershock zone at the 2016 Amatrice-Norcia seismic sequence"
 @Louise Xiang
 Date: 13/05/2024
 To: Journal of Geophysical Research - Solid Earth
