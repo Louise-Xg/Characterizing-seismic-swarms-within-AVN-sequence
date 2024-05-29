@@ -4,7 +4,7 @@ Date: 13/05/2024
 To: Journal of Geophysical Research - Solid Earth
 
 ## Open Research:
-AGU requires that the underlying data and/or software or code needed to understand, evaluate, and build upon the reported research be available at the time of peer review and publication. Additionally, the code (e.g. Python, Jupyter Notebooks, R, MATLAB) used to perform any data analysis and to produce the manuscript’s figures should be made available in a free and open platform (e.g. Github) and preserved in a repository (e.g. Zenodo)
+AGU requires that the underlying data and/or software or code needed to understand, evaluate, and build upon the reported research be available at the time of peer review and publication. Additionally, the code (e.g. Python, Jupyter Notebooks, R, MATLAB) used to perform any data analysis and to produce the manuscript’s figures should be made available in a free and open platform (e.g., Github) and preserved in a repository (e.g. Zenodo)
 
 Therefore here I cite datasets, softwares/codes for analysis used in my study:
 
