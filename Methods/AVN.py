@@ -1,12 +1,24 @@
-###Librairies : 
+"""
+Created on Thursday Nov 13 2023.
+@author: Louise Xiang
+Script contains a function named "AVN" that allow you to find the three mainshocks within the earthquake catalog.
+"""
+
+###Librairy : 
 import pandas as pd
 
 def AVN(df) :
     """
     Finding AVN i.e Amatrice, Visso & Norcia data inside the table which contains all metadata.
     
-    Input :
-        df : table which contains all metadata.
+    Input:
+        df: table which contains all metadata.
+
+    Output: 
+        A: Amatrice seismic event line.
+        V: Visso seismic event line.
+        N: Norcia seismic event line.
+        df_AVN: a new dataframe containning only A,V,N seismic events.
     
     """
     ##Sorted df to see the highest magnitude values :
