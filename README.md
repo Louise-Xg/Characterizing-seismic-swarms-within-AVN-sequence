@@ -5,6 +5,8 @@ Date: 13/05/2024
 
 To: Journal of Geophysical Research - Solid Earth
 
+This work is part of the thesis of Louise Xiang, financed by a ministerial grant from the French Ministry of Higher Education, Research, and Innovation (MERSI).
+
 ## Open Research:
 AGU requires that the underlying data and/or software or code needed to understand, evaluate, and build upon the reported research be available at the time of peer review and publication. Additionally, the code (e.g. Python, Jupyter Notebooks, R, MATLAB) should be made available in a free and open platform (e.g., Github) and preserved in a repository (e.g. Zenodo)
 
