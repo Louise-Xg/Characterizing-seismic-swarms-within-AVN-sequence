@@ -1,3 +1,4 @@
+@author: David Marsan
 
 function [J,Mmodele, Mmodele_liss] = cout_local(theta,t,M,m,I,dn)
 % modèle : M = -a * log(t-t_MS) + m_MS - b, et M = c si M<c. Si plusieurs
