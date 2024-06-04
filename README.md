@@ -18,15 +18,6 @@ Methods:
 - Density-based clustering (3D) with matlab (@David Marsan): "cout_local.m"
                                                              "compute_pi_M.m"
 - ETAS model (4D) including earthquake detection probability with C (@David Marsan): "etas-amatrice-v5.c"
-- Determination of candidate seismic swarms with jupyter notebook: "automatisation_looking_for_swarms.ipynb"
-- Statistical assessment of candidate seismic swarms with jupyter notebook: "take_a_look_at_swarms_of_v0_d03_n50_every1_review.ipynb"
+- Determination of candidate seismic swarms with jupyter notebook: "Generating_seismicity_rate.ipynb"
 
-Analyses:
-- Migration analysis of seismic swarms with jupyter notebook: "Migration_behaviours.ipynb"
-- Global statistics of final seismic swarms with jupyter notebook: "check_up_global_stats_of_v0_d03_n50_every1.ipynb"
-- Interpretation of our results (figures mainly) with jupyter notebook: "plots_for_paper_about_swarms_v0_d03_n50_every1.ipynb"
-                                                                        "map_results_for_v0_d03_n50_every1.ipynb"
-                                                                        "cross_sections_of_v0_d03_n50_every1.ipynb"
-                                                                        "Interpretation_swarms_N_S_parts_of_v0_d03_n50_every1.ipynb"
-                                                                        "compute_pressure_variation.ipynb"
 
