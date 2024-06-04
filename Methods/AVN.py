@@ -1,7 +1,7 @@
 """
-Created on Thursday Nov 13 2023.
+Created on Monday Nov 13 2023.
 @author: Louise Xiang
-Script contains a function named "AVN" that allow you to find the three mainshocks within the earthquake catalog.
+
 """
 
 ###Librairy : 
