@@ -13,8 +13,8 @@ AGU requires that the underlying data and/or software or code needed to understa
 Therefore here I cite datasets, part of my scripts used in my study:
 
 Datasets (tables): 
-- Results obtained after applying Density-based clustering (3D): "v0_d03km_n50_every1.mat"
-- Results of final seismic swarms: "df_final_swarms_of_v0_d03_n50_every1.csv"
+- Results obtained after applying Density-based clustering (3D): "v0_d03km_n50_every1.mat" 
+- Results of final seismic swarms: "df_final_swarms_of_v0_d03_n50_every1.csv" (correspond to dataset s01 in the Supplementary Information)
 
 Methods:
 - Density-based clustering (3D) with matlab (@David Marsan): "cout_local.m"
